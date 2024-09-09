@@ -1,8 +1,6 @@
 # Introduction
 This project analyzes the data job market, focusing on data analyst roles. It investigates the highest-paying positions, the in-demand skills, and the areas where high demand intersects with high salaries in data analytics.
 
-Check the queries over here: [SQL_project_job_analysis](/project_sql/)
-
 # Background
 This project was undertaken to streamline the data analyst job search process by identifying the highest-paying positions and most in-demand skills. The data, sourced from [lukebarousse.com/sql](https://lukebarousse.com/sql), provides valuable insights into job titles, salaries, locations, and essential skills.
 
