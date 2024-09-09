@@ -267,4 +267,7 @@ From the analysis, several general insights emerged:
 - **Optimal Skills for Job Market Value:** SQL leads in demand and offers a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 
 ### Final Thoughts
-This comprehensive analysis of the data analyst job market has provided valuable insights for aspiring data analysts. The findings highlight the importance of prioritizing high-demand, high-salary skills to effectively navigate a competitive career path. By focusing on these areas and continuously adapting to emerging trends within the field of data analytics, aspiring professionals can enhance their employability and achieve long-term success. 
+This comprehensive analysis of the data analyst job market has provided valuable insights for aspiring data analysts. The findings highlight the importance of prioritizing high-demand, high-salary skills to effectively navigate a competitive career path. By focusing on these areas and continuously adapting to emerging trends within the field of data analytics, aspiring professionals can enhance their employability and achieve long-term success.
+
+### Sincere Gratitude
+I acknowledge the contributions of Luke Barousse and his YouTube channel. His efforts in disseminating knowledge within the realm of data analysis have undoubtedly aided in the advancement of this field. However, it is imperative to note that his contributions are merely a stepping stone upon which my own endeavors are built.
