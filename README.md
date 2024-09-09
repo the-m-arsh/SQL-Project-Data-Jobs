@@ -90,7 +90,7 @@ The most in-demand skills for data analysts in 2023, as determined by job postin
 - **Tableau:** This data visualization tool was another highly sought-after requirement.
 - Other skills: **R**, **Snowflake**, **Pandas**, and **Excel** were also in varying degrees of demand.
 
-![](image-1.png)
+![](https://github.com/user-attachments/assets/75568d31-ca95-417d-8d63-acf54e053dee)
 *A bar graph illustrating the frequency of skills required for the top 10 highest-paying data analyst positions was generated using ChatGPT, based on my SQL query results*
 
 ### 3. In-Demand Skills for Data Analysts
